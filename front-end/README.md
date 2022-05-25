@@ -4,6 +4,4 @@
 
 > yarn
 
-run project 
-
 > yarn dev
