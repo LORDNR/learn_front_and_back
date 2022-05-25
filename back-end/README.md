@@ -9,6 +9,7 @@ create file .env in folder back-end
 
 example  
 > PORT = 5000
+
 > DATABASE_URL="mysql://root:@localhost:3306/postdb"
 
 #### open Terminal
