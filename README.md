@@ -6,6 +6,8 @@
 
 > yarn
 
+> yarn dev
+
 
 ***
 
@@ -28,3 +30,5 @@ DATABASE_URL="mysql://root:@localhost:3306/postdb"
 > yarn
 
 > yarn prisma migrate dev --name init
+
+> yarn dev
