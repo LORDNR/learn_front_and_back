@@ -6,7 +6,7 @@ PORT = write your Port
 
 DATABASE_URL="mysql://USER:PASSWORD@HOST:PORT/DATABASE"
 
-example  (
+#### example  
 PORT = 5000
 
 DATABASE_URL="mysql://root:@localhost:3306/postdb"
